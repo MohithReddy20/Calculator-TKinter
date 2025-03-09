@@ -52,6 +52,3 @@ A **fully‐featured scientific calculator** built with **Python** and **Tkinter
 
 7. **Error Handling**  
    - Displays `"ERROR"` for invalid expressions  
-
----
----
